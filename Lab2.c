@@ -14,6 +14,9 @@ int main(){
         }
         return 0;
     }
+///* commands for Vscode
+///*compile gcc -fopenmp Lab2.c -o Lab2
+///* run ./Lab2.exe   
 
 
 //output
